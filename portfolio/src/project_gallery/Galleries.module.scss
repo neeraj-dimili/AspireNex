@@ -1,0 +1,19 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    gap: 15rem;
+
+    >div:nth-child(2n){
+        flex-direction: row-reverse !important;
+    }
+}
+
+.name{
+    width: 100%;
+    text-align: center;
+    text-transform: lowercase;
+    font-family: cursive;
+    font-size: 5rem;
+    letter-spacing: 1rem;
+
+}

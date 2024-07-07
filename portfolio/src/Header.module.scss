@@ -1,0 +1,61 @@
+.main{
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 500;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+
+    > .hello{
+        letter-spacing: 1rem;
+        text-transform: uppercase;
+        color: rgb(66, 87, 82);
+    }
+
+    > p{
+        color: rgb(66, 87, 82);
+        font-weight: bolder;
+        text-transform: uppercase;
+        font-size: 2rem;
+    }
+
+
+    >.mover{
+        animation: mover .5s ease-out;
+    }
+
+    >.e{
+        > span{
+            color: gray;
+            > span{
+                font-size: 1rem;
+                letter-spacing: 0;
+            }
+        }
+    }
+}
+
+
+@keyframes mover {
+
+    0%{
+        visibility: unset;
+        transform: translateX(-20vw);
+    }
+
+    60%{
+        visibility: unset;
+        transform: translateX(10vw);
+    }
+
+    // 100%{
+    //     visibility: unset;
+    //     transform: translateX(1vw);
+    // }
+}

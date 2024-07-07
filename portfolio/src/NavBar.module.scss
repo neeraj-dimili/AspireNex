@@ -1,0 +1,24 @@
+.main{
+    position: absolute;
+    top: 0;
+    width: 90vw;
+    height: 4rem;
+    z-index: 10000;
+
+    > ul{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 5rem;
+        flex-direction: row;
+
+        > li{
+            list-style: none;
+            font-weight: bolder;
+            text-transform: uppercase;
+            font-size: 1.5rem;
+            color: rgb(153, 210, 197);
+            cursor: pointer;
+        }
+    }
+}
