@@ -1,0 +1,33 @@
+.score{
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    > h1{
+        font-family: Helvetica, sans-serif;
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: .5rem;
+        font-size: 5rem;
+        color: rgb(66, 24, 88);
+    }
+
+    >a{
+        text-decoration: none;
+        display: flex;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: none;
+        font-size: 2rem;
+        color: white;
+        width: 30%;
+        height: 5rem;
+        border-radius: 3rem;
+        background-color: rgb(66, 24, 88);
+        cursor: pointer;
+    }
+}

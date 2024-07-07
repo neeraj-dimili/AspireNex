@@ -1,0 +1,193 @@
+[
+  {
+    "question": "Whose nose grew long everytime he lied",
+    "rightChoices": [
+      "Pinocchio"
+    ],
+    "wrongChoices": [
+      "elsa",
+      "peter pan",
+      "woody"
+    ]
+  },
+  {
+    "question": "some dummy question",
+    "rightChoices": [
+      "option1"
+    ],
+    "wrongChoices": [
+      "option2",
+      "option3",
+      "option4"
+    ]
+  },
+  {
+    "id": 1,
+    "question": "this is what ",
+    "rightChoices": [
+      "this is one"
+    ],
+    "wrongChoices": [
+      "2",
+      "this is three"
+    ]
+  },
+  {
+    "question": "What operating systems were used in early mainframe computers?",
+    "rightChoices": [
+      "IBM OS/360",
+      "UNIVAC EXEC II"
+    ],
+    "wrongChoices": [
+      "Windows 95",
+      "Linux",
+      "Mac OS"
+    ]
+  },
+  {
+    "question": "The first computer virus is",
+    "rightChoices": [
+      "creeper"
+    ],
+    "wrongChoices": [
+      "code red",
+      "slammer"
+    ]
+  },
+  {
+    "question": "What are the names of emotions that reside in girls head in INSIDE OUT",
+    "rightChoices": [
+      "Joy",
+      "Sadness",
+      "Fear"
+    ],
+    "wrongChoices": [
+      "Anxiety",
+      "Hatred"
+    ]
+  },
+  {
+    "question": "Which companies were pioneers in the development of early computers?",
+    "rightChoices": [
+      "IBM",
+      "UNIVAC"
+    ],
+    "wrongChoices": [
+      "Apple",
+      "Microsoft",
+      "Google"
+    ]
+  },
+  {
+    "question": "How long can a person live without food",
+    "rightChoices": [
+      "9-21 days"
+    ],
+    "wrongChoices": [
+      "50days",
+      "100days",
+      "infinite time"
+    ]
+  },
+  {
+    "question": "what are the oceans surrounding india",
+    "rightChoices": [
+      "bay of bengal",
+      "indian ocean",
+      "arabian sea"
+    ],
+    "wrongChoices": [
+      "pacific sea"
+    ]
+  },
+  {
+    "question": "Which input devices were used in early computers?",
+    "rightChoices": [
+      "Punch Cards",
+      "Paper Tape"
+    ],
+    "wrongChoices": [
+      "Touch Screens",
+      "Mouse",
+      "Trackpad"
+    ]
+  },
+  {
+    "question": "What type of memory was commonly used in early computers?",
+    "rightChoices": [
+      "Magnetic Drums",
+      "Magnetic Core Memory"
+    ],
+    "wrongChoices": [
+      "Flash Memory",
+      "SSD",
+      "RAM"
+    ]
+  },
+  {
+    "question": "Which machine is considered the first mechanical computer?",
+    "rightChoices": [
+      "Difference Engine"
+    ],
+    "wrongChoices": [
+      "ENIAC",
+      "Zuse Z3"
+    ]
+  },
+  {
+    "question": "what is the value of square root of 4",
+    "rightChoices": [
+      "+2",
+      "-2"
+    ],
+    "wrongChoices": [
+      "+1",
+      "-1"
+    ]
+  },
+  {
+    "question": "Which technologies were used in third-generation computers?",
+    "rightChoices": [
+      "Integrated Circuits"
+    ],
+    "wrongChoices": [
+      "Vacuum Tubes",
+      "Transistors",
+      "Microprocessors"
+    ]
+  },
+  {
+    "question": "What advancements were introduced in fourth-generation computers?",
+    "rightChoices": [
+      "Microprocessors",
+      "VLSI (Very Large Scale Integration)"
+    ],
+    "wrongChoices": [
+      "Vacuum Tubes",
+      "Transistors",
+      "Integrated Circuits"
+    ]
+  },
+  {
+    "question": "What technology replaced vacuum tubes in the second generation of computers?",
+    "rightChoices": [
+      "Transistors"
+    ],
+    "wrongChoices": [
+      "Integrated Circuits",
+      "Microprocessors",
+      "Magnetic Drums"
+    ]
+  },
+  {
+    "question": "What is the name of the place you go to see a lot of animals",
+    "rightChoices": [
+      "zoo",
+      "forest"
+    ],
+    "wrongChoices": [
+      "space",
+      "restaurant"
+    ]
+  }
+]

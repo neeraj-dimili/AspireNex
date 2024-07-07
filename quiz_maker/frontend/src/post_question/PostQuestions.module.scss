@@ -1,0 +1,52 @@
+.main{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 3rem;
+    > .bar{
+        display: flex;
+        flex-direction: row;
+        height: 6rem;
+        width: 90%;
+        justify-content: space-between;
+        align-items: center;
+
+        > div{
+            width: 90%;
+            color: red;
+            text-align: center;
+            font-size: 2rem;
+
+        }
+
+        > button{
+            min-width: 10% !important;
+            max-width: 20% !important;
+        }
+    }
+
+    >button, > .bar > button{
+        border: none;
+        font-size: 1.5rem;
+        color: white;
+        width: 10%;
+        height: 5rem;
+        border-radius: 3rem;
+        background-color: rgb(66, 24, 88);
+        cursor: pointer;
+    }
+
+    .bar > button{
+        // margin-left: 80%;
+    } 
+
+    > button{
+        text-transform: uppercase;
+        font-size: 2rem;
+        margin: 3rem 0;
+    }
+
+
+}
