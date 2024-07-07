@@ -1,0 +1,214 @@
+[
+  {
+    "question": "What technology replaced vacuum tubes in the second generation of computers?",
+    "rightChoices": [
+      "Transistors"
+    ],
+    "wrongChoices": [
+      "Integrated Circuits",
+      "Microprocessors",
+      "Magnetic Drums"
+    ]
+  },
+  {
+    "question": "What advancements were introduced in fourth-generation computers?",
+    "rightChoices": [
+      "Microprocessors",
+      "VLSI (Very Large Scale Integration)"
+    ],
+    "wrongChoices": [
+      "Vacuum Tubes",
+      "Transistors",
+      "Integrated Circuits"
+    ]
+  },
+  {
+    "question": "Which machine is considered the first mechanical computer?",
+    "rightChoices": [
+      "Difference Engine"
+    ],
+    "wrongChoices": [
+      "ENIAC",
+      "Zuse Z3"
+    ]
+  },
+  {
+    "question": "Whose nose grew long everytime he lied",
+    "rightChoices": [
+      "Pinocchio"
+    ],
+    "wrongChoices": [
+      "elsa",
+      "peter pan",
+      "woody"
+    ]
+  },
+  {
+    "question": "The first computer virus is",
+    "rightChoices": [
+      "creeper"
+    ],
+    "wrongChoices": [
+      "code red",
+      "slammer"
+    ]
+  },
+  {
+    "question": "What are the names of emotions that reside in girls head in INSIDE OUT",
+    "rightChoices": [
+      "Joy",
+      "Sadness",
+      "Fear"
+    ],
+    "wrongChoices": [
+      "Anxiety",
+      "Hatred"
+    ]
+  },
+  {
+    "question": "some dummy question",
+    "rightChoices": [
+      "option1"
+    ],
+    "wrongChoices": [
+      "option2",
+      "option3",
+      "option4"
+    ]
+  },
+  {
+    "question": "What is the name of the place you go to see a lot of animals",
+    "rightChoices": [
+      "zoo",
+      "forest"
+    ],
+    "wrongChoices": [
+      "space",
+      "restaurant"
+    ]
+  },
+  {
+    "question": "What operating systems were used in early mainframe computers?",
+    "rightChoices": [
+      "IBM OS/360",
+      "UNIVAC EXEC II"
+    ],
+    "wrongChoices": [
+      "Windows 95",
+      "Linux",
+      "Mac OS"
+    ]
+  },
+  {
+    "id": 1,
+    "question": "this is what ",
+    "rightChoices": [
+      "this is one"
+    ],
+    "wrongChoices": [
+      "2",
+      "this is three"
+    ]
+  },
+  {
+    "question": "Which companies were pioneers in the development of early computers?",
+    "rightChoices": [
+      "IBM",
+      "UNIVAC"
+    ],
+    "wrongChoices": [
+      "Apple",
+      "Microsoft",
+      "Google"
+    ]
+  },
+  {
+    "question": "How long can a person live without food",
+    "rightChoices": [
+      "9-21 days"
+    ],
+    "wrongChoices": [
+      "50days",
+      "100days",
+      "infinite time"
+    ]
+  },
+  {
+    "question": "what is the value of square root of 4",
+    "rightChoices": [
+      "+2",
+      "-2"
+    ],
+    "wrongChoices": [
+      "+1",
+      "-1"
+    ]
+  },
+  {
+    "question": "What type of memory was commonly used in early computers?",
+    "rightChoices": [
+      "Magnetic Drums",
+      "Magnetic Core Memory"
+    ],
+    "wrongChoices": [
+      "Flash Memory",
+      "SSD",
+      "RAM"
+    ]
+  },
+  {
+    "question": "Which input devices were used in early computers?",
+    "rightChoices": [
+      "Punch Cards",
+      "Paper Tape"
+    ],
+    "wrongChoices": [
+      "Touch Screens",
+      "Mouse",
+      "Trackpad"
+    ]
+  },
+  {
+    "question": "what are the oceans surrounding india",
+    "rightChoices": [
+      "bay of bengal",
+      "indian ocean",
+      "arabian sea"
+    ],
+    "wrongChoices": [
+      "pacific sea"
+    ]
+  },
+  {
+    "question": "Which technologies were used in third-generation computers?",
+    "rightChoices": [
+      "Integrated Circuits"
+    ],
+    "wrongChoices": [
+      "Vacuum Tubes",
+      "Transistors",
+      "Microprocessors"
+    ]
+  },
+  {
+    "question": "  Number of primitive data types in Java are?",
+    "rightChoices": [
+      "8"
+    ],
+    "wrongChoices": [
+      "6",
+      "7"
+    ]
+  },
+  {
+    "question": "what is the name of a fish among these ?",
+    "rightChoices": [
+      "apollo",
+      "salmen"
+    ],
+    "wrongChoices": [
+      "german sepherd",
+      "poddler"
+    ]
+  }
+]
