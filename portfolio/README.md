@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Note
+
+If you are facing issues while running the application, its high likely because of pacage installations. please use
+
+### `npm install sass` after npm install
+
+before running
+
+### `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
