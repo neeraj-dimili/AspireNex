@@ -4,7 +4,7 @@ const jsonfile = require('jsonfile');
 const cors = require('cors');
 
 const app = express();
-const file = './frontend/src/questions.json';
+const file = './questions.json';
 
 app.use(bodyParser.json());
 app.use(cors());
